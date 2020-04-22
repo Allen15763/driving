@@ -13,3 +13,5 @@ elif country == 'US':
 		print('You can drive')
 	else:
 		print("You can't drive")
+else:
+	print('Please type Taiwan or US only')
